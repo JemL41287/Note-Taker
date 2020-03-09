@@ -4,7 +4,7 @@
 This is an application that is used to write, save and delete notes. It uses an express backend and saves and retrieves note data from a JSON file.
 
 ## Utilizing the App
-- View the app: Here
+- View the app: [Here](https://dubootcampnotetaker.herokuapp.com/ "Here")
 
 - User clicks "Get Started."
 
